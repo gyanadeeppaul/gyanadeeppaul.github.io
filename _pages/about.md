@@ -1,8 +1,10 @@
 ---
-layout: home
-title: Gyanadeep Paul
-
-
+permalink: /
+title: "Gyanadeep Paul"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Welcome to my website 👋
