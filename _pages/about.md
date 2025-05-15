@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Gyanadeep Paul
+permalink: /
+
 ---
 
 # Welcome to my website 👋
