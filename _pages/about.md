@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to my website 👋
 
-I am a fourth-year BS-MS Physics student at the Indian Institute of Science Education and Research (IISER), Bhopal.
+I am a fourth-year BS-MS student in the department of Physics at the Indian Institute of Science Education and Research (IISER), Bhopal.
 
 My academic interests include optics and photonics, quantum physics, and astronomy. I’m particularly excited by the experimental and theoretical techniques used to study light and the universe.
 
